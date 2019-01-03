@@ -36,7 +36,7 @@
 
 ## Panes split, move and toggle
 
-Hit `ctrl+b` and select any of the below options
+Hit `ctrl+b` and choose any of the below options
 
 ```
 %       horizontal split
@@ -50,7 +50,7 @@ x       kill pane
 
 ## Tabs
 
-Hit `ctrl+b` and select any of the below options
+Hit `ctrl+b` and choose any of the below options
 
 ```
 c           new window
@@ -60,4 +60,12 @@ f           find window
 &           kill window
 .           move window - prompted for a new number
 :movew<CR>  move window to the next unused number
+```
+
+## Help
+
+Hit `ctrl+b` and choose the below option
+
+```
+?           For help
 ```
